@@ -1,4 +1,4 @@
-# Name
+# RecursiveCallbackMapIterator
 This iterator applies recursively the callback to the elements of the given iterator.
 
 

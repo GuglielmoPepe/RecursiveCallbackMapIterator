@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Fixed
 - Fix description in composer.json
 - Fix example in readme.md
+- Fix name in readme.md
 
 ## 1.0.0 - 2022-01-16
 
