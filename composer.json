@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "homepage": "https://www.guglielmopepe.com",
+            "name": "Guglielmo Pepe",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RecursiveCallbackMapIterator\\": "src/"
+        }
+    },
+    "config": {
+        "process-timeout": 0,
+        "sort-packages": true
+    },
+    "description": "A skeleton for rapid development",
+    "name": "guglielmopepe/recursivecallbackmapiterator",
+    "homepage": "https://github.com/GuglielmoPepe/RecursiveCallbackMapIterator",
+    "keywords": ["iterator","recursive map iterator","map","callback iterator"],
+    "license": "MIT",
+    "require": {
+        "php": "^7.2.0 || ^8.0.0"
+    },
+    "support": {
+        "issues": "https://github.com/GuglielmoPepe/RecursiveCallbackMapIterator/issues",
+        "source": "https://github.com/GuglielmoPepe/RecursiveCallbackMapIterator"
+    }
+}
